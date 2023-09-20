@@ -16,7 +16,7 @@
 .Petra{
     color: blue;
 }
-.Dr.Stockmann{
+.DrStockmann{
     color: blueviolet;
 }
 .Billing{
@@ -25,6 +25,17 @@
 .Hovstad{
     color: chartreuse;
 }
-.Mrs.Stockmann{
+.MrsStockmann{
     color:chocolate
+}
+table{
+    font-size: medium;
+    color: darkgreen;
+    text-align: center;
+    margin: 2px;
+    padding: 12px;
+    border: 4px green solid;
+}
+tr:nth-child(odd) {
+    background-color: bisque;
 }
