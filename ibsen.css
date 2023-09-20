@@ -39,3 +39,9 @@ table{
 tr:nth-child(odd) {
     background-color: bisque;
 }
+.DrStockmann:hover{
+    color: red;
+    border: 2px solid purple;
+    text-shadow: 4px 5px 6px;
+    filter: blur(1px);
+}
