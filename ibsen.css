@@ -1,5 +1,5 @@
 .speech{
-    font: italic;
+    font:medium;
     font-size: large;
     color: black;
 }
@@ -24,4 +24,7 @@
 }
 .Hovstad{
     color: chartreuse;
+}
+.Mrs.Stockmann{
+    color:chocolate
 }
