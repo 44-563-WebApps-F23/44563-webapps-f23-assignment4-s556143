@@ -45,3 +45,18 @@ tr:nth-child(odd) {
     text-shadow: 4px 5px 6px;
     filter: blur(1px);
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:rgb(231, 163, 231)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    }
+    
